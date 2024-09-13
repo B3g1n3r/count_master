@@ -1,16 +1,20 @@
-# countmaster
+# CountMaster
 
-A new Flutter project.
+CountMaster is a simple Flutter app where users can log in, increment a value, and view their count. Each user's count is saved and persists across sessions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User login
+- Increment button
+- Persistent count per user
+- Logout functionality
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Login Page:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Login Page](./assets/login_page.png)
+
+**Home Page:**
+
+![Home Page](./assets/home_page.png)
