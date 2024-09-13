@@ -13,7 +13,7 @@ CountMaster is a simple Flutter app where users can log in, increment a value, a
 
 **Login Page:**
 
-![Login Page](./home_screen.jpg)
+![Login Page](./assets/loginpage.jpg)
 
 **Home Page:**
 
